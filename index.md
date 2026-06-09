@@ -5,4 +5,7 @@ stories_heading: "Learn about how Disability Activism brought change to our camp
 objects_heading: "See the primary sources of this Microhistory"
 ---
 
-Welcome to my website!
+Interactive elements include:
+- Collection of primary source objects
+- Timeline of disability activism at UC Santa Barbara
+- Glossary of terms
