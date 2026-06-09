@@ -1,0 +1,5 @@
+---
+title: "The ADA Advisory Committee"
+---
+
+Under the direction of Vice Chancellor of Administrative Affairs, David Sheldon, the ADA Advisory Committee was established and made up of campus community members. The committee prominently featured twenty board members from a variety of departmental backgrounds, including Administrative Services, Environmental Health and Safety, Housing and Residential Services, and the campus fire marshall, among others. While the primary advisory committee was responsible for officially incorporating accessibility into campus policy and infrastructure, it was the feedback and suggestions of over two hundred campus community members across administrative and academic departments that served as the eyes on the ground, identifying where change needed to be made. 
