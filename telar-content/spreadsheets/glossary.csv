@@ -1,16 +1,20 @@
 term_id,title,definition,related_terms
 id_término,titulo,definición,términos_relacionados
-accessibility,Accessibility,,
-disability,Disability,An,
-untitled-term,Wheelchair user,A,
-able-bodied,Able-bodied,f,
-kcsb,KCSB,L,
-handicapped-living,Handicapped Living,A,
-tactile-paving,Tactile Paving,T,
-braile,Braille,"A ",
-untitled-term,Interpretive Services,,
-untitled-term,Hearing Assistive Technology,,
-untitled-term,Unconscious Bias,,
-untitled-term,Polio,,
-infrastructure,Infrastructure,,
-spina-bifida,Spina bifida,,
+accessibility,Accessibility,"The implementation and design of enviornments, products, services, and technology that allows for easy use and operation by all individuals.",
+disability,Disability,"A physical, mental, cognitive, or developmental impairment that interferes with or limits an individuals daily activities and interactions.",
+untitled-term,Wheelchair user,"An individual who relies on a wheelchair for daily mobility.
+![](https://www.stronggo.com/sites/default/files/2023-01/shutterstock_716571097.jpg)",
+able-bodied,Able-bodied,A person who is non-disabled and has the physical and mental capacities to complete daily activites and operate independently.,
+kcsb,KCSB,"Local radio station headquartered at UC Santa Barbara that broadcasts to the greater Central Coast of California.
+![](https://www.kcsb.org/wp-content/themes/kcsb2019/images/KCSB--logo.png)",
+tactile-paving,Tactile Paving,"Textured ground indicators installed on sidewalks, stairs, and transit platforms. Serves as detectable warning surfaces for individuals with visual impairments as they navigate public spaces.
+![](https://cdn.shopify.com/s/files/1/0045/4072/7407/files/person_with_cane_and_sneakers_tapping_yellow_domes_480x480.jpg?v=1613513484)",
+braile,Braille,"A tactile writing system used by individuals who have visual impairments, allowing them to read and write through touch.
+![](https://afb.org/serve/media/8042)",
+untitled-term,Unconscious Bias,"The automatic, unintentional stereotypes or prejudices projected onto groups of people.
+![](https://diverseek.com/wp-content/uploads/2024/09/unconsious-bias.jpg)",
+untitled-term,Polio (Poliomyelitis),"A highly contagious and life-threatening viral-disease that targets the body's central nervous system, leaving many survivors paralyzed. Largely eliminated in the second-half of the 20th century with the development of vaccines and immunizations that stopped the spread of the disease.
+![](https://www.christopherreeve.org/wp-content/uploads/2024/04/postpolio.jpg)",
+infrastructure,Infrastructure,"The foundational systems, structures, and facilities of an environment that allows it to function effectively.",
+spina-bifida,Spina bifida,"A birth defect in the central nervous system where a baby's spine and spinal cord do not develop properly. Effects vary depending on the severity of cases, ranging from little to no mobility issues or severe physical limitations.
+![](https://www.christopherreeve.org/wp-content/uploads/2024/04/shutterstock_1589691085-Spina-Bifida-scaled.jpg)",
